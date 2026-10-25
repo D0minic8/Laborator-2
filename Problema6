@@ -1,4 +1,5 @@
 
+
 n=int(input())
 print("Volumul in litri este:", n)
 print("VOlumul in decilitrii este:", n*10)
