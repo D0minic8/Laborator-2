@@ -1,0 +1,6 @@
+
+n=int(input())
+print("Volumul in litri este:", n)
+print("VOlumul in decilitrii este:", n*10)
+print("Volumul in centilitrii este:", n*100)
+print("Volumul in mililitrii este:", n*1000) 
